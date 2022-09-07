@@ -1,1 +1,1 @@
-# hubly.lol.io
+# hubl.io
